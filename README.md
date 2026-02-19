@@ -103,8 +103,8 @@ Available for hire and ready to deliver.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0000?style=for-the-badge&logo=linkedin&logoColor=cc0000)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-0d0000?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Email-0d0000?style=for-the-badge&logo=gmail&logoColor=cc0000)](mailto:youremail@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-0d0000?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/@BidiFortun66007)
+[![Gmail](https://img.shields.io/badge/Email-0d0000?style=for-the-badge&logo=gmail&logoColor=cc0000)](mailto:bidifortune@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0000?style=for-the-badge&logo=vercel&logoColor=cc0000)](https://yourportfolio.com)
 
 <br/>

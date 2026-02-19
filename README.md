@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003300,100:00FF41&height=220&section=header&text=Kelvin%20Bidi&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Lagos%2C%20Nigeria%20%F0%9F%8C%8D&descAlignY=58&descColor=ccffcc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003300,100:00FF41&height=220&section=header&text=Kelvin%20Bidi&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Nigeria%20%F0%9F%8C%8D&descAlignY=58&descColor=ccffcc&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🔥 I'm a passionate **Full Stack Developer** based in **Lagos, Nigeria**
+🔥 I'm a passionate **Full Stack Developer** based in ** Nigeria**
 
 🛠️ I build fast, clean, and scalable web apps from frontend to backend
 

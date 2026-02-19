@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:8b0000&height=240&section=header&text=KELVIN%20BIDI&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC%20%7C%20No%20Cursed%20Energy.%20Just%20Pure%20Skill.&descAlignY=62&descColor=ff4444&animation=fadeIn&stroke=8b0000&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:8b0000&height=240&section=header&text=KELVIN%20BIDI&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Nigeria&descAlignY=62&descColor=ff4444&animation=fadeIn&stroke=8b0000&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=3000&pause=1500&color=CC0000&center=true&vCenter=true&width=750&height=55&lines=I+don%27t+need+cursed+energy+to+dominate.;I+build+what+others+can%27t+even+imagine.;Lagos.+Code.+No+excuses.;Hire+me+or+watch+me+build+without+you.)](https://github.com/Codex723)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=3000&pause=1500&color=CC0000&center=true&vCenter=true&width=750&height=55&lines=Full+Stack+Developer.+Nigeria.;Building+clean%2C+fast%2C+powerful+apps.;Frontend.+Backend.+Database.+All+of+it.;Open+to+freelance+%26+opportunities.)](https://github.com/Codex723)
 
 </div>
 
@@ -28,15 +28,11 @@
 
 <div align="center">
 
-I don't talk much. My commits do.
-
-A **Full Stack Developer** from **Nigeria** — I build fast, clean, and battle-tested web applications.
+A **Full Stack Developer** from **Nigeria** — I build fast, clean, and powerful web applications.
 No shortcuts. No half measures. Every line of code is intentional.
 
-Currently focused on **personal projects**, sharpening my edge, and taking on **freelance work**.
-I'm not looking to be the loudest in the room — just the most effective.
-
-> *"The only one who can beat me... is me."*
+Currently focused on **personal projects** and taking on **freelance work**.
+Available for hire and ready to deliver.
 
 </div>
 
@@ -44,7 +40,7 @@ I'm not looking to be the loudest in the room — just the most effective.
 
 <div align="center">
 
-## ▌ARSENAL
+## ▌TECH STACK
 
 <br/>
 
@@ -86,7 +82,7 @@ I'm not looking to be the loudest in the room — just the most effective.
 
 <div align="center">
 
-## ▌BATTLE RECORDS
+## ▌GITHUB STATS
 
 <br/>
 
@@ -117,7 +113,7 @@ I'm not looking to be the loudest in the room — just the most effective.
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Codex723&color=8b0000&style=for-the-badge&label=THOSE+WHO+PASSED+THROUGH)
+![Visitor Count](https://komarev.com/ghpvc/?username=Codex723&color=8b0000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 

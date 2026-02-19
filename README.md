@@ -1,48 +1,116 @@
-# Hi there, I'm Kelvin Bidi 👋
+<div align="center">
 
-🚀 Full Stack Developer passionate about building clean, scalable web applications  
-🌍 Based in Lagos, Nigeria  
-💼 Open to freelance work & new opportunities  
-🛠️ Currently building personal projects and leveling up my skills  
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║        ██╗  ██╗███████╗██╗    ██╗██╗███╗   ██╗               ║
+║        ██║ ██╔╝██╔════╝██║    ██║██║████╗  ██║               ║
+║        █████╔╝ █████╗  ██║    ██║██║██╔██╗ ██║               ║
+║        ██╔═██╗ ██╔══╝  ██║    ╚═╝██║██║╚██╗██║               ║
+║        ██║  ██╗███████╗███████╗  ██║██║ ╚████║               ║
+║        ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═╝╚═╝  ╚═══╝               ║
+║                                                               ║
+║             > FULL STACK DEVELOPER _ LAGOS, NG               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+</div>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+the+internet+runs+on...;From+Lagos+to+the+World+%F0%9F%8C%8D;Full+Stack+%7C+Node+%7C+React+%7C+Next.js)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Database**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&theme=radical&hide_border=true)
+```javascript
+const Kelvin = {
+  name:     "Kelvin Bidi",
+  role:     "Full Stack Developer",
+  location: "Lagos, Nigeria 🌍",
+  status:   "Open to freelance & opportunities",
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&theme=radical&hide_border=true)
+  stack: {
+    frontend : ["React", "Next.js", "HTML", "CSS", "JS"],
+    backend  : ["Node.js", "Express", "PHP"],
+    database : ["MySQL", "MongoDB"],
+  },
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Codex723&theme=radical&hide_border=true)
+  currentFocus: [
+    "🔨 Building personal projects",
+    "🎯 Leveling up every day",
+    "💼 Available for hire",
+  ],
+
+  funFact: "I debug with console.log and I'm not ashamed 😅",
+};
+```
+
+<br clear="right"/>
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bidifortune@gmail.com)
+## ⚡ ARSENAL
+
+</div>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-⭐️ *Feel free to explore my repos and drop a star if something interests you!*
+<div align="center">
+
+## 📡 ACTIVITY
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Codex723&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 FIND ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ SYSTEM STATUS: ONLINE ] [ ACCEPTING CONTRACTS ] [ BUILD MODE: ACTIVE ]
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Codex723&color=00FF41&style=flat-square&label=VISITORS)
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>

@@ -86,7 +86,7 @@ Available for hire and ready to deliver.
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&bg_color=0d0000&title_color=cc0000&icon_color=8b0000&text_color=dddddd&ring_color=8b0000)
+(https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&bg_color=0d0000&title_color=cc0000&icon_color=8b0000&text_color=dddddd&ring_color=8b0000)
 
 <br/>
 

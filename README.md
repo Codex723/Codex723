@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003300,100:00FF41&height=220&section=header&text=Kelvin%20Bidi&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Nigeria%20%F0%9F%8C%8D&descAlignY=58&descColor=ccffcc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0000,100:8b0000&height=240&section=header&text=KELVIN%20BIDI&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC%20%7C%20No%20Cursed%20Energy.%20Just%20Pure%20Skill.&descAlignY=62&descColor=ff4444&animation=fadeIn&stroke=8b0000&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;From+Nigeria+with+code+%F0%9F%8C%8D;Fullstack+%7C+Freelance+%7C+Available+%E2%9C%85)](https://github.com/Codex723)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=3000&pause=1500&color=CC0000&center=true&vCenter=true&width=750&height=55&lines=I+don%27t+need+cursed+energy+to+dominate.;I+build+what+others+can%27t+even+imagine.;Lagos.+Code.+No+excuses.;Hire+me+or+watch+me+build+without+you.)](https://github.com/Codex723)
 
 </div>
 
@@ -10,17 +10,11 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
-🔥 I'm a passionate **Full Stack Developer** based in ** Nigeria**
-
-🛠️ I build fast, clean, and scalable web apps from frontend to backend
-
-💼 Currently open to **freelance work** and **full-time opportunities**
-
-🔨 Always working on personal projects and leveling up my craft
-
-⚡ I believe great software starts with great attention to detail
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-8b0000?style=for-the-badge&labelColor=0d0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-NIGERIA-1a0000?style=for-the-badge&labelColor=0d0000&color=8b0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-8b0000?style=for-the-badge&labelColor=0d0000"/>
 
 </div>
 
@@ -28,33 +22,21 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## ▌ABOUT
 
-**Frontend**
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<div align="center">
 
-**Backend**
+I don't talk much. My commits do.
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white)
+A **Full Stack Developer** from **Nigeria** — I build fast, clean, and battle-tested web applications.
+No shortcuts. No half measures. Every line of code is intentional.
 
-**Database**
+Currently focused on **personal projects**, sharpening my edge, and taking on **freelance work**.
+I'm not looking to be the loudest in the room — just the most effective.
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=00ed64)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+> *"The only one who can beat me... is me."*
 
 </div>
 
@@ -62,15 +44,41 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## ▌ARSENAL
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+**FRONTEND**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Codex723&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=aaffaa&dates=666666)
+![HTML5](https://img.shields.io/badge/HTML5-0d0000?style=for-the-badge&logo=html5&logoColor=cc0000)
+![CSS3](https://img.shields.io/badge/CSS3-0d0000?style=for-the-badge&logo=css3&logoColor=cc0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0000?style=for-the-badge&logo=javascript&logoColor=cc0000)
+![React](https://img.shields.io/badge/React-0d0000?style=for-the-badge&logo=react&logoColor=cc0000)
+![Next.js](https://img.shields.io/badge/Next.js-0d0000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9&langs_count=6)
+<br/>
+
+**BACKEND**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d0000?style=for-the-badge&logo=nodedotjs&logoColor=cc0000)
+![Express](https://img.shields.io/badge/Express-0d0000?style=for-the-badge&logo=express&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-0d0000?style=for-the-badge&logo=php&logoColor=cc0000)
+
+<br/>
+
+**DATABASE**
+
+![MySQL](https://img.shields.io/badge/MySQL-0d0000?style=for-the-badge&logo=mysql&logoColor=cc0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0000?style=for-the-badge&logo=mongodb&logoColor=cc0000)
+
+<br/>
+
+**TOOLS**
+
+![Git](https://img.shields.io/badge/Git-0d0000?style=for-the-badge&logo=git&logoColor=cc0000)
+![GitHub](https://img.shields.io/badge/GitHub-0d0000?style=for-the-badge&logo=github&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/VS_Code-0d0000?style=for-the-badge&logo=visualstudiocode&logoColor=cc0000)
+![Postman](https://img.shields.io/badge/Postman-0d0000?style=for-the-badge&logo=postman&logoColor=cc0000)
 
 </div>
 
@@ -78,21 +86,41 @@
 
 <div align="center">
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.com)
+## ▌BATTLE RECORDS
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Codex723&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&bg_color=0d0000&title_color=cc0000&icon_color=8b0000&text_color=dddddd&ring_color=8b0000)
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."*
+![GitHub Streak](https://streak-stats.demolab.com?user=Codex723&theme=dark&hide_border=true&background=0D0000&ring=8b0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&dates=666666&stroke=8b000020)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&hide_border=true&bg_color=0d0000&title_color=cc0000&text_color=dddddd&langs_count=6)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+---
+
+<div align="center">
+
+## ▌FIND ME
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0000?style=for-the-badge&logo=linkedin&logoColor=cc0000)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-0d0000?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/yourhandle)
+[![Gmail](https://img.shields.io/badge/Email-0d0000?style=for-the-badge&logo=gmail&logoColor=cc0000)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0000?style=for-the-badge&logo=vercel&logoColor=cc0000)](https://yourportfolio.com)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Codex723&color=8b0000&style=for-the-badge&label=THOSE+WHO+PASSED+THROUGH)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8b0000,50:1a0000,100:000000&height=130&section=footer&animation=fadeIn" width="100%"/>

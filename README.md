@@ -86,15 +86,11 @@ Available for hire and ready to deliver.
 
 <br/>
 
-(https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&bg_color=0d0000&title_color=cc0000&icon_color=8b0000&text_color=dddddd&ring_color=8b0000)
-
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Codex723&theme=dark&hide_border=true&background=0D0000&ring=8b0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&dates=666666&stroke=8b000020)
 
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&hide_border=true&bg_color=0d0000&title_color=cc0000&text_color=dddddd&langs_count=6)
 
 </div>
 

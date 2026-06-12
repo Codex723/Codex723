@@ -28,7 +28,7 @@
 
 <div align="center">
 
-A **Full Stack Developer** from **Nigeria** — I build fast, clean, and powerful web applications.
+A **Full Stack Developer** from **Nigeria**. I build fast, clean, and powerful web applications.
 No shortcuts. No half measures. Every line of code is intentional.
 
 Currently focused on **personal projects** and taking on **freelance work**.

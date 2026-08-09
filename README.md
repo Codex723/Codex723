@@ -1,89 +1,93 @@
 <div align="center">
-  <img src=".github/banner.svg" width="100%" alt="Kelvin Bidi, Full Stack Developer, Kaduna, Nigeria" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Kelvin+Bidi;Full-Stack+Developer;Kaduna%2C+Nigeria;Currently%3A+Freelancing" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](#)
+[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=58A6FF)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](#)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:bidifortune@gmail.com)
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-1B1A17?style=for-the-badge&logo=vercel&logoColor=FAF9F6" alt="Portfolio" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Resume-1B1A17?style=for-the-badge&logo=readdotcv&logoColor=FAF9F6" alt="Resume" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-1B1A17?style=for-the-badge&logo=linkedin&logoColor=FAF9F6" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bidifortune@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1B1A17?style=for-the-badge&logo=gmail&logoColor=FAF9F6" alt="Email" />
-  </a>
-</div>
+## About
+
+```bash
+$ whoami
+Full-stack developer based in Kaduna, Nigeria.
+
+$ background
+Backend first — Node.js, Express, databases.
+Then React, to round out the frontend side.
+
+$ status
+Freelancing. Open to full-time roles.
+Looking for a team that ships, not one stuck in process.
+```
 
 <br/>
 
-<img src=".github/heading-about.svg" width="100%" alt="About" />
+## Tech Stack
 
-<br/>
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<table>
-<tr>
-<td valign="top" width="65%">
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-I'm Kelvin Bidi, a full stack developer from Kaduna, Nigeria. My interest in building things didn't start with computer science. It started with games, and with taking apart whatever hardware I could get my hands on to see how it actually worked.
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-Backend first, then React to round out the frontend side. I work best with people who are driven and disciplined about finishing what they start, and I'd rather ship something real than wait on a process that isn't moving.
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
-</td>
-<td align="center" width="35%">
-
-<img src=".github/fox-spin.gif" width="200" alt="A spinning low poly fox, the signature mark from my portfolio site" />
-
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src=".github/heading-stack.svg" width="100%" alt="Tech Stack" />
-
-<br/>
-
-<img src=".github/tech-stack.svg" width="100%" alt="Languages: TypeScript, JavaScript. Frontend: React, Next.js, Three.js. Backend: Node.js, Express, REST APIs. Database: MongoDB. Tools: Git, GitHub, Postman, Cloudinary." />
-
-<br/>
-
-<img src=".github/heading-timeline.svg" width="100%" alt="Timeline" />
-
-<br/>
-
-<img src=".github/timeline.svg" width="100%" alt="2021 to now, year by year progress" />
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 <br/>
 
 ## Featured Projects
 
-**[Lumen Skin Studio](https://lumen-studioone.vercel.app/)**: booking site for a physician-led aesthetics clinic in Lagos. Lets clients browse services and request a consultation directly, no phone call needed.
-`React` `Vite` `TypeScript` `Tailwind CSS` `Framer Motion`
+**[Lumen Skin Studio](https://lumen-studioone.vercel.app/)**
+Booking site for a physician-led aesthetics clinic in Lagos. Clients browse services and request a consultation directly, no phone call needed.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**[Baobab Homes](https://baobab-homes.vercel.app/)**: real estate marketplace for Lagos and Abuja. Connects buyers and renters directly with licensed local agents instead of chasing listings through informal channels.
-`Next.js`
+**[Baobab Homes](https://baobab-homes.vercel.app/)**
+Real estate marketplace for Lagos and Abuja. Connects buyers and renters directly with licensed local agents instead of chasing listings through informal channels.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**[RemitX](https://remitxx.vercel.app/)**: cross-border remittance app built on the Stellar Network. Near-instant settlement across USD, NGN, GBP, and PHP corridors, without traditional banking fees or delays.
-`Next.js` `Stellar SDK`
+**[RemitX](https://remitxx.vercel.app/)**
+Cross-border remittance app built on the Stellar Network. Near-instant settlement across USD, NGN, GBP, and PHP corridors, without traditional banking fees or delays.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Stellar](https://img.shields.io/badge/Stellar_SDK-7D00FF?style=flat-square&logo=stellar&logoColor=white)
 
 <br/>
 
-<img src=".github/heading-stats.svg" width="100%" alt="GitHub Stats" />
-
-<br/>
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&bg_color=FAF9F6&title_color=B5502F&text_color=1B1A17&icon_color=B5502F&border_color=DEDBD0&border_radius=8" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&hide_border=true&bg_color=FAF9F6&title_color=B5502F&text_color=1B1A17&border_color=DEDBD0&border_radius=8" alt="Top Languages" height="165"/>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Codex723&background=FAF9F6&ring=B5502F&fire=B5502F&currStreakLabel=1B1A17&sideLabels=6E6C64&dates=6E6C64&stroke=DEDBD0&hide_border=true&border_radius=8" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codex723&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Codex723&hide_border=true&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</div>

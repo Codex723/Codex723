@@ -56,6 +56,11 @@ Looking for a team that ships, not one stuck in process.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
+**Web3**
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Stellar SDK](https://img.shields.io/badge/Stellar_SDK-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+![Soroban](https://img.shields.io/badge/Soroban-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+
 <br/>
 
 ## Featured Projects
@@ -91,3 +96,4 @@ Cross-border remittance app built on the Stellar Network. Near-instant settlemen
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Codex723&hide_border=true&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </div>
+

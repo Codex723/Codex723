@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Kelvin+Bidi;Full-Stack+Developer;Kaduna%2C+Nigeria;Currently%3A+Freelancing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Kelvin+Bidi;Full-Stack+Developer;Abuja%2C+Nigeria;Currently%3A+Freelancing" alt="Typing SVG" />
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 ```bash
 $ whoami
-Full-stack developer based in Kaduna, Nigeria.
+Full-stack developer based in Abuja, Nigeria.
 
 $ background
-Backend first — Node.js, Express, databases.
-Then React, to round out the frontend side.
+Frontend first — React, building out real interfaces.
+Then backend, to own the full stack: Node.js, Express, databases.
 
 $ status
 Freelancing. Open to full-time roles.

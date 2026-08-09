@@ -16,11 +16,11 @@
 ## About
 
 ```bash
-## whoami
+$ whoami
 Full-stack developer based in Abuja, Nigeria.
 
 $ background
-Frontend first — React, building out real interfaces.
+Started learning Frontend with React, building out real interfaces.
 Then backend, to own the full stack: Node.js, Express, databases.
 
 $ status

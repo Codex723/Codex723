@@ -16,7 +16,7 @@
 ## About
 
 ```bash
-$ whoami
+## whoami
 Full-stack developer based in Abuja, Nigeria.
 
 $ background

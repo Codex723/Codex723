@@ -38,7 +38,6 @@ Backend first, then React to round out the frontend side. I work best with peopl
 
 <img src=".github/fox-spin.gif" width="200" alt="A spinning low poly fox, the signature mark from my portfolio site" />
 
-<sub>my portfolio's signature mark, spinning<br/>(GitHub can't run real 3D, so this is the closest thing)</sub>
 
 </td>
 </tr>

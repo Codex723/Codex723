@@ -87,5 +87,3 @@ Backend first, then React to round out the frontend side. I work best with peopl
 </div>
 
 <br/>
-
-<img src=".github/footer.svg" width="100%" alt="" />

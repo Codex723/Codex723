@@ -90,10 +90,9 @@ Cross-border remittance app built on the Stellar Network. Near-instant settlemen
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Codex723&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Codex723&hide_border=true&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </div>
-

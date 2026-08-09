@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 508" width="100%">
+<rect width="1200" height="508" fill="#FAF9F6"/>
+<line x1="36" y1="20" x2="36" y2="488" stroke="#DEDBD0" stroke-width="2"/>
+<circle cx="36" cy="20" r="4" fill="#B5502F">
+  <animate attributeName="cy" values="20;488" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.95;1" dur="5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="36" cy="20" r="9" fill="#B5502F" opacity="0.18">
+  <animate attributeName="cy" values="20;488" dur="5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;0.18;0.18;0" keyTimes="0;0.05;0.95;1" dur="5s" repeatCount="indefinite"/>
+</circle>
+<text x="60" y="54" font-family="Courier New, monospace" font-size="14" fill="#B5502F">2021</text>
+<text x="170" y="50" font-family="Georgia, sans-serif" font-size="15" fill="#1B1A17">Enrolled at NIIT for a Multimedia Systems diploma.</text>
+<text x="170" y="72" font-family="Georgia, sans-serif" font-size="13" fill="#6E6C64">The start of learning to build with real structure.</text>
+<line x1="60" y1="98" x2="1140" y2="98" stroke="#DEDBD0" stroke-width="1"/>
+<text x="60" y="132" font-family="Courier New, monospace" font-size="14" fill="#B5502F">2022</text>
+<text x="170" y="128" font-family="Georgia, sans-serif" font-size="15" fill="#1B1A17">Took a coursework web app further on my own.</text>
+<text x="170" y="150" font-family="Georgia, sans-serif" font-size="13" fill="#6E6C64">First taste of building something because I wanted to.</text>
+<line x1="60" y1="176" x2="1140" y2="176" stroke="#DEDBD0" stroke-width="1"/>
+<text x="60" y="210" font-family="Courier New, monospace" font-size="14" fill="#B5502F">2023</text>
+<text x="170" y="206" font-family="Georgia, sans-serif" font-size="15" fill="#1B1A17">Completed the program and got certified.</text>
+<text x="170" y="228" font-family="Georgia, sans-serif" font-size="13" fill="#6E6C64">Then went deep on backend: Node.js, databases, APIs.</text>
+<line x1="60" y1="254" x2="1140" y2="254" stroke="#DEDBD0" stroke-width="1"/>
+<text x="60" y="288" font-family="Courier New, monospace" font-size="14" fill="#B5502F">2024</text>
+<text x="170" y="284" font-family="Georgia, sans-serif" font-size="15" fill="#1B1A17">Picked up React to round out the frontend side.</text>
+<text x="170" y="306" font-family="Georgia, sans-serif" font-size="13" fill="#6E6C64">Backend first, but wanted the full picture.</text>
+<line x1="60" y1="332" x2="1140" y2="332" stroke="#DEDBD0" stroke-width="1"/>
+<text x="60" y="366" font-family="Courier New, monospace" font-size="14" fill="#B5502F">2025</text>
+<text x="170" y="362" font-family="Georgia, sans-serif" font-size="15" fill="#1B1A17">Built the site for Lumen Skin Studio.</text>
+<text x="170" y="384" font-family="Georgia, sans-serif" font-size="13" fill="#6E6C64">React, Vite, a no-backend booking flow. Client happy.</text>
+<line x1="60" y1="410" x2="1140" y2="410" stroke="#DEDBD0" stroke-width="1"/>
+<text x="60" y="444" font-family="Courier New, monospace" font-size="14" fill="#B5502F">Now</text>
+<text x="170" y="440" font-family="Georgia, sans-serif" font-size="15" fill="#1B1A17">Freelancing and open to new roles.</text>
+<text x="170" y="462" font-family="Georgia, sans-serif" font-size="13" fill="#6E6C64">Looking for a team that finishes what it starts.</text>
+</svg>

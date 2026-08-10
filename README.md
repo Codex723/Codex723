@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](#)
-[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=58A6FF)](#)
+[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=58A6FF)](.github/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](#)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:bidifortune@gmail.com)
 

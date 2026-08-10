@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](#)
-[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=58A6FF)](.github/Resume.docx)
+[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=58A6FF)](./Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](#)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:bidifortune@gmail.com)
 
@@ -20,7 +20,7 @@ $ whoami
 Full-stack developer based in Abuja, Nigeria.
 
 $ background
-Started learning Frontend with React, building out real interfaces.
+Frontend first — React, building out real interfaces.
 Then backend, to own the full stack: Node.js, Express, databases.
 
 $ status
@@ -36,7 +36,6 @@ Looking for a team that ships, not one stuck in process.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)

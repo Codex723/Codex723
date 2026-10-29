@@ -13,7 +13,7 @@
 
 ```bash
 $ whoami
-Full-stack developer based in Abuja, Nigeria.
+Software developer based in Abuja, Nigeria.
 
 $ background
 Frontend to database, all of it. Node.js APIs, React frontends,

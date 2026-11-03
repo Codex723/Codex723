@@ -6,7 +6,7 @@
 
 </div>
 
-# 👋 Hi, I'm Kelvin Bidi
+# Kelvin Bidi
 
 > Full-stack engineer building web products, and exploring fintech and decentralized systems.
 

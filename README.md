@@ -1,100 +1,71 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Kelvin+Tony+Bidi;Full-Stack+Developer;Abuja%2C+Nigeria;Currently%3A+Freelancing" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Engineer%20%7C%20Full-Stack%20Developer;Building%20Web%20Products%20%26%20APIs;Exploring%20Blockchain%20Infrastructure)](https://git.io/typing-svg)
 
-<br/>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Codex723&style=flat-square&color=58a6ff)
 
 </div>
 
-<br/>
+# 👋 Hi, I'm Kelvin Bidi!
 
-## About
+> Developing web products and discovering software, fintech, and decentralized systems
 
-```bash
-$ whoami
-Software developer based in Abuja, Nigeria.
+## 🌟 About Me
 
-$ background
-Frontend to database, all of it. Node.js APIs, React frontends,
-whatever a project needs. I like builds that make you think a little.
+- 🔭 **Currently building:** RemitX which is a cross-border remittance routing protocol on Stellar that utilizes DEX liquidity, SEP-24 anchors/anchors in the DEX, and real-time tracking of exchanges for cost-effective routing.
+- 🌱 **Learning:** Rust, Soroban, and Solidity for blockchain and smart contract development.
+- 👯 **Open to:** Full-Stack Apps, SaaS Products, Fintech Apps, Blockchain Infrastructure & Open-Source Software.
+- ⚡ **Fun fact:** I enjoy building products from the UI all the way down to the database.
 
-$ status
-Freelancing and job hunting at the same time.
-Looking for a team that actually finishes what it starts.
-```
+## 🛠️ Tech Stack
 
-<br/>
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-3834b2?style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-55b234?style=for-the-badge)
 
-## Tech Stack
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-3453b2?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-34b23e?style=for-the-badge) ![Vercel](https://img.shields.io/badge/Vercel-3464b2?style=for-the-badge) ![Paystack](https://img.shields.io/badge/Paystack-b27734?style=for-the-badge) ![Cloudinary](https://img.shields.io/badge/Cloudinary-a534b2?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-68b234?style=for-the-badge)
 
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-<br/>
-
-## Featured Projects
-
-**[Lumen Skin Studio](https://lumen-studioone.vercel.app/)** — 2026
-Production site built for an aesthetics clinic in Victoria Island, Lagos. Clients browse services and request a consultation without calling in. No backend to maintain — bookings run on EmailJS.
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**[Baobab Homes](https://baobab-homes.vercel.app/)** — 2026
-Production real estate marketplace for Lagos and Abuja. I was the frontend engineer on a team building this — verified listings you can search by neighbourhood, with a direct line to a licensed agent for viewings.
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**[RemitX](https://remitxx.vercel.app/)** — 2026
-My own project. Cross-border transfers in and out of Nigeria, built on the Stellar Network for near-instant, low-fee settlement across 4 currency corridors (USD, NGN, GBP, PHP). Includes a developer API for other apps to plug into.
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Stellar SDK](https://img.shields.io/badge/Stellar_SDK-7D00FF?style=flat-square&logo=stellar&logoColor=white)
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codex723&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="GitHub Activity Graph" />
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Codex723&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Codex723&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Codex723&hide_border=true&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</div>
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-Based in Abuja, Nigeria — open to new work.
+![Kelvin Bidi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codex723&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Codex723&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex723&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **RemitX** | Cross-border remittance routing protocol on Stellar. Analyzes cost-effective transfer routes with the help of DEX liquidity, SEP-24 anchors and on-the-spot exchange rate tracking. | [View →](https://github.com/Northgate-Systems/RemitX) |
+| **MarketForge** | A fully functional marketplace platform built using Next.js, Node.js, Express, MongoDB, full payment integration with Paystack, media management system with Cloudinary, and JWT authentication. | [View →](https://github.com/Codex723/MarketForge.git) |
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-bidi-34681b432/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolioktb.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bidifortune@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>
+
+<!-- Generated by ReadmeDesign.com -->

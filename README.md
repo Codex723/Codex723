@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full-Stack+Developer;Building+Web+Products+%26+APIs;Exploring+Blockchain+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer+%7C+Full-Stack+Developer;Building+Web+Products+%26+APIs;Exploring+Blockchain+Infrastructure)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Codex723&style=flat-square&color=58a6ff)
 

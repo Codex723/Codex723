@@ -6,9 +6,9 @@
 
 </div>
 
-# Kelvin Bidi
+# 👋 Hi, I'm Kelvin Bidi
 
-> Full-stack engineer building web products, and exploring fintech and decentralized systems.
+> I'm a Full-stack developer building web products, and exploring fintech and decentralized systems.
 
 ## 🌟 About Me
 
